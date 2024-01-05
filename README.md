@@ -1,7 +1,7 @@
 ### Hi there i`m Svetlana 👋
 ##### JavaScript & computer science student
 
-![Описание](https://github.com/marss-hub/marss-hub/blob/main/codebanner.png)
+![Описание](https://github.com/marss-hub/marss-hub/blob/main/codebanner-m.png)
 
 I hope, some of my projects will be useful or intresting for you
 
