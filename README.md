@@ -1,5 +1,5 @@
 # Hi there i`m Svetlana 👋
-### JavaScript & computer science student
+##### JavaScript & computer science student
 
 I hope, some of my projects will be useful or intresting for you
 
