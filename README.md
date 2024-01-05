@@ -15,6 +15,9 @@ I hope, some of my projects will be useful or intresting for you
 
 </td></tr></table>
 
+<a href="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-1.PNG" target="_blank" ><img src="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-1.PNG" alt="Certificate from GeekBrains entry level" height="100px"></a>
+
+<a href="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-2.PNG" target="_blank" ><img src="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-2.PNG" alt="Certificate from GeekBrains intermediate level" height="100px"></a>
 
 
 
