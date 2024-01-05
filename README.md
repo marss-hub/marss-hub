@@ -6,7 +6,7 @@ I hope, some of my projects will be useful or intresting for you
 <table><tr><td valign="top" width="50%">
 //left
 
-* [Conway's Game of Life](https://marss-hub.github.io/game-the-Life-on-JavaScript-functions/) — A cellular automaton developed using only simple JavaScript functions
+* [Conway's Game of Life](https://marss-hub.github.io/Conways-Game-of-Life-using-simple-JavaScript/) — A cellular automaton developed using only simple JavaScript functions
 
 </td><td valign="top" width="50%">
 //right
