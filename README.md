@@ -21,7 +21,7 @@ I hope, some of my projects will be useful or intresting for you
 
 
 
-##### Some confirmation:
+##### 🎓 Some confirmation:
 <table><tr><td valign="top" width="33%">
 <a href="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-1.PNG" target="_blank" ><img src="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-1.PNG" alt="Certificate from GeekBrains entry level" height="100px"></a>
 </td><td valign="top" width="33%">
@@ -30,29 +30,6 @@ I hope, some of my projects will be useful or intresting for you
 <a href="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-2.PNG" target="_blank" ><img src="https://github.com/marss-hub/marss-hub/blob/main/certificateGB-2.PNG" alt="Certificate from GeekBrains intermediate level" height="100px"></a>
 </td></tr></table>
 
+##### ⚡ Just for fun:
+![codewars](https://www.codewars.com/users/marss-hub/badges/small)
 
-
-
-
-  
-<!--
-**marss-hub/marss-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Описание](ссылка)
-mb later
-https://www.codewars.com/users/marss-hub/badges/large
-or
-https://www.codewars.com/users/marss-hub/badges/micro
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
