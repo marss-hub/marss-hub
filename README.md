@@ -7,6 +7,7 @@ I hope, some of my projects will be useful or intresting for you
 
 <table><tr><td valign="top" width="50%">
 
+* [Re-count for recipe](https://marss-hub.github.io/re-count-for-recipe/) — Web application for recalculating recipe ingredients in proportions
 * [Conway's Game of Life](https://marss-hub.github.io/Conways-Game-of-Life-using-simple-JavaScript/) — A cellular automaton developed using only simple JavaScript functions
 
 </td><td valign="top" width="50%">
