@@ -7,7 +7,7 @@ I hope, some of my projects will be useful or intresting for you
 
 <table><tr><td valign="top" width="50%">
   
-* [Re-count for recipe](https://marss-hub.github.io/re-count-for-recipe/) — Web application for recalculating recipe ingredients in proportions
+* [Reciper](https://marss-hub.github.io/reciper/) — Web application for recalculating and scaling a set of ingredients while maintaining proportions
   
 </td><td valign="top" width="50%">
   
