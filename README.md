@@ -13,9 +13,22 @@ I hope, some of my projects will be useful or intresting for you
   
 * [Conway's Game of Life](https://marss-hub.github.io/Conways-Game-of-Life-using-simple-JavaScript/) — A cellular automaton developed using only simple JavaScript functions
   
+</td></tr>
+<tr><td valign="top" width="50%">
+  
+* [Server activity monitor bot](https://github.com/marss-hub/sav-activity-bot) — [Telegram bot](https://t.me/Coronavirus_Public_bot) for monitoring server activity and notifying about a large number of online players
+  
+</td><td valign="top" width="50%">
+  
+* [Server imap sorter](https://github.com/marss-hub/server-npm-imap) — Simple IMAP mail sorter
+  
 </td></tr></table>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
