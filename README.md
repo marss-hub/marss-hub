@@ -16,7 +16,7 @@ I hope, some of my projects will be useful or intresting for you
 </td></tr>
 <tr><td valign="top" width="50%">
   
-* [Server activity monitor bot](https://github.com/marss-hub/sav-activity-bot) — [Telegram bot](https://t.me/Coronavirus_Public_bot) for monitoring server activity and notifying about a large number of online players
+* [Server activity monitor bot](https://github.com/marss-hub/sav-activity-bot) — [Telegram bot](https://t.me/Coronavirus_Public_bot) for monitoring [server activity](https://savagedrx.com/servers/89.39.105.27:11235) and notifying about a large number of online players
   
 </td><td valign="top" width="50%">
   
