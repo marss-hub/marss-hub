@@ -20,7 +20,7 @@ I hope, some of my projects will be useful or intresting for you
   
 </td><td valign="top" width="50%">
   
-* [Server imap sorter](https://github.com/marss-hub/server-npm-imap) — Simple IMAP mail sorter
+* [IMAP mail sorter](https://github.com/marss-hub/server-npm-imap) — Server-side mail sorter for IMAP protocol
   
 </td></tr></table>
 
